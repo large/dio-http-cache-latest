@@ -4,16 +4,16 @@ version: 0.3.1
 homepage: https://github.com/hurshi/dio-http-cache
 
 environment:
-  sdk: '>=3.0.0-290.1.beta <4.0.0'
+  sdk: '>=2.19.5 <4.0.0'
 
 dependencies:
   crypto: ^3.0.1
-  dio: ^5.0.0
+  dio: ^5.0.3
   flutter:
     sdk: flutter
   json_serializable: ^6.2.0
   json_annotation: ^4.0.1
-  path: ^1.8.0
+  path: ^1.8.3
   quiver: ^3.0.1
   hive: ^2.2.2
   path_provider: ^2.0.11
